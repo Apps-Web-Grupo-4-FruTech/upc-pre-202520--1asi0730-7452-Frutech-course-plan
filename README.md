@@ -6,19 +6,76 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ## **Secuencia de la lección**
 
-### **Lección 1: ¿Qué es el desarrollo web? (5 minutos)**
+## Lección 1: ¿Qué es el desarrollo web?
 
-* Descripción: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.  
-* Enlace: [Ver la lección](https://www.youtube.com/watch?v=1L_21-fz8dI)  
-* Consejos clave: Sitios web \= Contenido (HTML) \+ Estilo (CSS).  
-* Empieza a programar: [Open CodePen](https://codepen.io/trending)
+### Descripción Detallada
+Esta es la introducción fundamental al mundo del desarrollo web. En esta lección se explica qué ocurre "detrás de cámaras" de un sitio web y la relación simbiótica entre HTML y CSS. No se requiere experiencia previa: solo curiosidad y la comprensión de dos conceptos básicos.
 
-¡Hola a todos\! Bienvenidos al curso de **Fundamentos de Desarrollo Web**.  
-En el cual aprenderás cómo se construyen los sitios web usando dos lenguajes esenciales: **HTML** y **CSS**.
+---
 
-Para empezar,no necesitas instalar nada, solo tu **navegador web** Chrome, y muchas ganas de aprender.
+### Conceptos clave de la lección
 
-Al final del curso, tendrás tu **propia página web personal lista para compartir.**
+### HTML (HyperText Markup Language): El Esqueleto
+- Lenguaje que estructura el contenido de la página.
+- Define bloques de construcción: títulos, párrafos, imágenes, enlaces, listas, etc.
+- Indica al navegador qué es cada elemento: por ejemplo `<h1>` (título), `<p>` (párrafo), `<img>` (imagen).
+
+### CSS (Cascading Style Sheets): El Estilo
+- Lenguaje que da estilo y diseño al HTML.
+- Controla colores, tipografías, tamaños, espaciado y posicionamiento.
+- Permite indicar al navegador reglas de presentación, por ejemplo: `h1 { color: blue; font-family: Arial; }`.
+
+---
+
+## La analogía central
+Si un sitio web fuera una casa:
+- HTML = paredes, vigas, puertas y ventanas (estructura).
+- CSS = pintura, muebles, cortinas y decoración (estilo).
+
+---
+
+## Objetivos de aprendizaje
+- Diferenciar estructura (HTML) de presentación (CSS).
+- Entender por qué separarlos (Separación de intereses): facilita mantenimiento y claridad.
+- Ver en vivo cómo un cambio en CSS transforma la apariencia sin tocar el contenido HTML.
+
+---
+
+## Recursos para practicar
+- Caja de arena: CodePen — https://codepen.io/trending
+
+---
+
+## Tu primer desafío (manos a la obra)
+1. Abre un nuevo "Pen" en CodePen.
+2. En la ventana de HTML escribe tu primera etiqueta:
+
+```html
+<h1>Hola, mundo</h1>
+<p>Mi primera página web con HTML.</p>
+```
+
+3. En la ventana de CSS prueba esto para ver el cambio de estilo:
+
+```css
+/* Esto le dice al navegador que cambie el h1 */
+h1 {
+  color: purple;
+  font-family: "Georgia", serif;
+}
+
+/* Esto cambia el párrafo */
+p {
+  color: gray;
+  font-size: 18px;
+}
+```
+
+4. ¡Observa cómo cambia la vista previa! Acabas de aplicar la regla fundamental: HTML para el contenido, CSS para el estilo.    
+
+--- 
+
+Fin de la lección 1. Continuar con la Lección 2 para crear tu primera página HTML.
 
 ### **Lección 2: Introducción a HTML (10 minutos)**
 
