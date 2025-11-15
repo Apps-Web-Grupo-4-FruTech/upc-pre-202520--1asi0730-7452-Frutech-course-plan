@@ -38,8 +38,8 @@ Al final del curso, tendrás tu **propia página web personal lista para compart
 
 * Descripción: Dale estilo a tu HTML con colores, fuentes y diseños.  
 * Enlace: [Ver la lección](https://youtu.be/Aue_0Q8RPcM)  
-* Consejos clave: Vincular CSS, usar selectores como body { background-color: blue; }.  
-* Práctica: [Aplicar estilo con un clic](https://codepen.io/Samuel-Bonifacio-the-builder/pen/pvybbby) 👈 ¡No es necesario registrarse\!
+* Consejos clave: Vincular CSS, usar selectores como body { background-color: blue; } y partes del diseño.  
+* Práctica: [Aplicar estilo con un clic](https://codepen.io/Samuel-Bonifacio-the-builder/pen/pvybbby) 👈 ¡No es necesario el \!
 
 ### **Lección 5: Crear una página web sencilla (15 minutos)**
 
